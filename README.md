@@ -1,8 +1,10 @@
-# GAMES101
+# GAMES101项目
+
+## GAMES101作业说明
 
 GAMES101作业，仅供参考！
 
-目前更新到cpp版本HW3，即shader这块内容。
+cpp目录中包含cpp源码以及用到的资源（如obj等），目前更新到cpp版本HW3，即shader这块内容。
 
 其中代码文件稍加改动，不影响结果以及核心思路。
 
@@ -11,4 +13,14 @@ GAMES101作业，仅供参考！
 3. 其次作业HW1中实现了提高要求，即对过原点任意轴进行旋转的变换矩阵。
 4. 作业HW2中实现了提高要求，且对rasterizer进行了部分修改，使之能够实现super-sampling进行抗锯齿。
 
-cpp_out中包含cpp代码的部分运行结果图像。
+cpp_out目录中包含cpp代码的部分运行结果图像。
+
+pdf目录中包含GAMES官网中给定的作业题目。
+
+## 环境与配置
+
+OS系统：windows10
+
+cpp：mingw c++17
+
+依赖：OpenCV4.1.2_contrib_MinGW64-master, Eigen3
