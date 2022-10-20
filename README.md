@@ -25,3 +25,9 @@ OS系统：windows10
 cpp：mingw c++17
 
 依赖：OpenCV4.1.2_contrib_MinGW64-master, Eigen3
+
+## 项目部分图像展示（详情见cpp_out目录）
+
+### 作业1 Transformation
+
+<img src="https://img-blog.csdn.net/20151129213701642" height="5%" />
