@@ -28,6 +28,41 @@ cpp：mingw c++17
 
 ## 项目部分图像展示（详情见cpp_out目录）
 
-### 作业1 Transformation
+### Transformation
 
-<img src="https://img-blog.csdn.net/20151129213701642" height="5%" />
+<img src="https://github.com/mofashaoye/GAMES101/blob/main/cpp_out/1/output.png" />
+
+### Rasterization and Z-Buffer
+
+<img src="https://github.com/mofashaoye/GAMES101/blob/main/cpp_out/2/output.png" />
+
+### Shading
+
+#### normal
+
+<img src="https://github.com/mofashaoye/GAMES101/blob/main/cpp_out/3/normal.png" />
+
+#### phong
+
+<img src="https://github.com/mofashaoye/GAMES101/blob/main/cpp_out/3/phong.png" />
+
+#### texture
+
+<img src="https://github.com/mofashaoye/GAMES101/blob/main/cpp_out/3/texture.png" />
+
+#### bump
+
+<img src="https://github.com/mofashaoye/GAMES101/blob/main/cpp_out/3/bump.png" />
+
+#### displacement
+
+<img src="https://github.com/mofashaoye/GAMES101/blob/main/cpp_out/3/displacement.png" />
+
+### Bézier Curve
+
+<img src="https://github.com/mofashaoye/GAMES101/blob/main/cpp_out/4/my_bezier_curve.png" />
+
+### Ray Tracing Ray triangle intersection
+
+<img src="https://github.com/mofashaoye/GAMES101/blob/main/cpp_out/5/binary.png" />
+
