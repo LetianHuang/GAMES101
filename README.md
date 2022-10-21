@@ -4,7 +4,7 @@
 
 GAMES101作业，仅供参考！
 
-cpp目录中包含cpp源码以及用到的资源（如obj等），目前更新到cpp版本HW5，即光线追踪——光线与三角形求交。
+cpp目录中包含cpp源码以及用到的资源（如obj等），目前更新到cpp版本HW6，即光线追踪——加速结构。
 
 其中代码文件稍加改动，不影响结果以及核心思路。
 
@@ -66,3 +66,6 @@ cpp：mingw c++17
 
 <img src="https://github.com/mofashaoye/GAMES101/blob/main/cpp_out/5/binary.png" />
 
+### Bounding Volume Hierarchy (BVH)
+
+<img src="https://github.com/mofashaoye/GAMES101/blob/main/cpp_out/6/binary.png" />
