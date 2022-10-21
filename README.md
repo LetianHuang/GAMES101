@@ -62,10 +62,10 @@ cpp：mingw c++17
 
 <img src="https://github.com/mofashaoye/GAMES101/blob/main/cpp_out/4/my_bezier_curve.png" />
 
-### Ray Tracing Ray triangle intersection
+### Ray Tracing——Ray triangle intersection
 
 <img src="https://github.com/mofashaoye/GAMES101/blob/main/cpp_out/5/binary.png" />
 
-### Bounding Volume Hierarchy (BVH)
+### Ray Tracing——Bounding Volume Hierarchy (BVH)
 
 <img src="https://github.com/mofashaoye/GAMES101/blob/main/cpp_out/6/binary.png" />
