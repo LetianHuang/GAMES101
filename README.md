@@ -15,7 +15,7 @@ cpp目录中包含cpp源码以及用到的资源（如obj等），目前更新�
 5. 作业HW4中实现了提高要求，具体对应shading函数，当 $anti\ne{0}$ 时，使用了反走样。
 6. 作业HW7中使用了openmp进行cpu并行计算，**编译命令需要增加```-fopenmp```**；且采样了MSAA抗锯齿；同时实现了Microfacet材质。
 7. **作业HW7中global.hpp中get_random_float函数random_device增加了static，一则因为static多次调用只实例化一次，大大减小了时间开销，二则该类并不跨平台，在windows MinGW旧版本会出问题，导致随机数多次生成结果一样，最终渲染效果极其不理想！**
-8. **作业HW7中还有一个坑点就是Bounds3中的IntersectP方法，判断应该为``tEnter <= tExit && tExit >= 0``，注意前面是小于等于，否则会出现大面积黑色**
+8. **作业HW7中还有一个坑点就是Bounds3中的IntersectP方法，判断应该为``tEnter <= tExit && tExit >= 0``，注意前面是小于等于，否则会出现大面积黑色。**
 
 cpp_out目录中包含cpp代码的部分运行结果图像。
 
